@@ -7,4 +7,4 @@ Macros that use an image of a colorwork chart in the clipboard to produce a colo
 
 A chart made with conditional formatting can then be manipulated with functions from [charttransform](/charttransform.bas) or converted to being a non-conditional formating chart and be used with the number macro to number color runs. Converting and number macros in [numbercolors](/numbercolors.bas).
 ## and various other stuff
-Like macros to convert between knitting charts and instructions and vertical/horizontal highlighters that follow where you are on the sheet.
+Like macros to convert between knitting charts and instructions and vertical/horizontal highlighters that follow where you are on the sheet. And in [fun](/fun) I have some excel files that generate colorwork charts automatically.
