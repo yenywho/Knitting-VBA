@@ -1,4 +1,4 @@
-Attribute VB_Name = "number"
+Attribute VB_Name = "numbercolors"
 'https://makingyenything.wordpress.com/2025/12/17/faster-code-for-counting-stitch-runs/
 Sub color()
 ' used to copy charts made from conditional formatting
